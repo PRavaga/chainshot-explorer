@@ -1,5 +1,8 @@
 # Project links
 
+https://chainshot-explorer.herokuapp.com/
+(Hosted on free heroku node, could take a minute or two to wake up)
+
 ## Available Scripts
 
 In the project directory, you can run:
